@@ -1,6 +1,7 @@
-<p align="center">
-  <video src="https://tenor.com" autoplay loop muted playsinline width="60%"></video>
-</p>
+<div align="center">
+  <img style="max-width: 498px; width: 100%;" height="auto" alt="subarashiki-hibi-subahibi" src="https://github.com/user-attachments/assets/600a9599-8a38-4344-93fb-2512e8df1216" />
+</div>
+
 
 
 # 💫 About Me:
