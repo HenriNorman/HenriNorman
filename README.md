@@ -1,4 +1,7 @@
-https://tenor.com/view/subarashiki-hibi-subahibi-wonderful-everyday-qazira-subarashiki-hibi-furenzoku-sonzai-gif-925003158439283727
+<p align="center">
+  <video src="https://tenor.com" autoplay loop muted playsinline width="60%"></video>
+</p>
+
 
 # 💫 About Me:
 Hi
